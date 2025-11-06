@@ -10,10 +10,3 @@ This repository is designed to help you practice and understand Git branching wo
 
 - `feature1.txt` - Example feature file 1
 - `feature2.txt` - Example feature file 2
-
-## Usage
-
-Use this repository to:
-- Practice creating and switching between branches
-- Experiment with merging branches
-- Learn Git branching best practices
